@@ -1,0 +1,3 @@
+﻿  practic6.cpp
+C:\Users\307-09\Desktop\Полеев\practic6\practic6.cpp(36,53): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  practic6.vcxproj -> C:\Users\307-09\Desktop\Полеев\practic6\x64\Debug\practic6.exe
